@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hotelties</string>
+    <string name="web_client_id">705322535482-ti0or0tad1rlfld5eh37hllkpv5urh1p.apps.googleusercontent.com</string> 
+    <string name="server_client_id">705322535482-rtk1gq6kcq8c0e4m33mt4igi9u2aa479.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">501374727928170</string>
+    <string name="fb_login_protocol_scheme">fb501374727928170</string>
+
+</resources>
